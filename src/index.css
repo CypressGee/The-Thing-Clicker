@@ -1,7 +1,7 @@
 body {
   background-color: #071952;
   font-family: "Pixelify Sans", sans-serif;
-   background-image: url("thething2.webp");
+   background-image: url("./public/thething2.webp");
    background-size: cover;
    width: 160px;
    height: 160px;
